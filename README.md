@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- Banner (opcional): poné esta imagen en /assets/header.png -->
+<p align="center">
+  <img src="./assets/header.png" alt="Leandro Cattai — Developer" width="100%" />
+</p>
 
-<!--
-**leancattai/leancattai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hey! Soy Leandro “Lean” Cattai 👋</h1>
+<p align="center">
+  Programador • Frontend & Data • Python | React | SQL — Mendoza, AR
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:TU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=leancattai&style=for-the-badge&color=0e75b6">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔎 Sobre mí
+- 🚀 Desarrollo **frontend** moderno y **automatizaciones con Python** (Pandas, Selenium, Fast/Flask).
+- 📊 Experiencia en **ciencia de datos** y **reporting** para call centers (Neotel, MySQL).
+- 🧩 Me gustan las UI limpias, microinteracciones y performance.
+
+### 🛠️ Tech stack principal
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?logo=tailwindcss&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+### ✨ Proyectos destacados
+- 📈 **Automonitoreo Chiperas** — Script Python para **congestión** de dispositivos, conexión de agentes y **alertas por WhatsApp**.  
+  `Pandas • Selenium • MySQL`
+- ⚖️ **Colejus** — Frontend institucional con validaciones y generación de **boletas de pago** (integración backend Flask).  
+  `React • Tailwind • Flask • Nginx`
+- 🏢 **M&L Tech Website** — Landing minimalista con animaciones y dark/light mode.  
+  `Flask • Tailwind • AOS`
+
+> Tip: vinculá los repos reales acá cuando quieras.
+
+---
+
+### 📊 Stats (auto-actualizadas)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leancattai&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=leancattai&mode=weekly&hide_border=true&background=FFFFFF00" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leancattai&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="145" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leancattai&theme=algolia&no-bg=true&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+### 🧩 Qué estoy haciendo ahora
+- 🔧 Mejoras en **validación de formularios** y generación de **boletas**.
+- 🤖 Automatizaciones para **Neotel** y análisis operativo en tiempo real.
+- 🧪 UI/UX con microinteracciones (Tailwind + HTMX/React).
+
+<details>
+<summary>📝 Contacto rápido</summary>
+
+- Email: TU_EMAIL  
+- LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN/  
+- Portfolio: https://TU_PORTFOLIO
+</details>
+
+---
+
+<p align="center">
+  <i>Si llegaste hasta acá, ¡gracias por pasar! ⭐ Considerá dejar una star si algo te fue útil.</i>
+</p>
