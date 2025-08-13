@@ -72,9 +72,9 @@
 <details>
 <summary>📝 Contacto rápido</summary>
 
-- Email: TU_EMAIL  
-- LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN/  
-- Portfolio: https://TU_PORTFOLIO
+- Email: leandrocattai@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/TU_LINKEDIN/  ](https://www.linkedin.com/in/leandro-cattai-rocher/)
+- Portfolio:
 </details>
 
 ---
