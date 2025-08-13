@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:TU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/leandro-cattai-rocher/](https://www.linkedin.com/in/leandro-cattai-rocher/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:leandrocattai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=leancattai&style=for-the-badge&color=0e75b6">
 </p>
 
@@ -73,7 +73,7 @@
 <summary>📝 Contacto rápido</summary>
 
 - Email: leandrocattai@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/TU_LINKEDIN/  ](https://www.linkedin.com/in/leandro-cattai-rocher/)
+- LinkedIn: [https://www.linkedin.com/in/leandro-cattai-rocher/]
 - Portfolio:
 </details>
 
