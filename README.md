@@ -51,15 +51,27 @@
 
 ### 📊 Stats (auto-actualizadas)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leancattai&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" />
-  <img src="https://streak-stats.demolab.com?user=leancattai&mode=weekly&hide_border=true&background=FFFFFF00" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leancattai&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="145" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=leancattai&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&cache_seconds=7200"
+    height="160"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=leancattai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leancattai&theme=algolia&no-bg=true&no-frame=true&margin-w=8" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leancattai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=7200"
+    height="150"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=leancattai&theme=algolia&no-bg=true&no-frame=true&margin-w=8&row=1&column=7"
+  />
 </p>
 
 ---
